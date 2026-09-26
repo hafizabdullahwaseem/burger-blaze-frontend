@@ -1,0 +1,6 @@
+{
+  "name": "Burger Blaze | Taste the Blaze",
+  "description": "Experience bold, flame-grilled artisan burgers, loaded crispy sides, and handcrafted shakes at Burger Blaze. Dark cinematic flavor, fresh ingredients, and lightning-fast delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
